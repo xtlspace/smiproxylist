@@ -1,4 +1,4 @@
-# Win端SSR&V2rayN可用的pac文件
+# 精简版pac文件
 
 ### 使用方法，直接下载然后进入V2ray&ssr替换同名文件即可<br>
 ### 注意！生效还需重启一下V2ray&ssr，让其重新加载pac文件<br>
