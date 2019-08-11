@@ -35,6 +35,8 @@ var rules = [
 "||youtube.com",
 "||youtu.be",
 //其他常用网址
+"||wikipedia.org", //维基百科
+"||wikimedia.org", //维基百科
 "||whoer.net",  //看IP的
 "||alibabacloud.com", //国际阿里
 "||facebook.com", //脸书
