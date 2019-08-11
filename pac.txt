@@ -25,6 +25,7 @@ var rules = [
 "||googleapis.com",
 "||googlevideo.com",
 "||googleusercontent.com",
+"||googletagmanager.com",
 "||googleadservices.com",
 "||google-analytics.com",
 "||gstatic.com",
@@ -34,7 +35,14 @@ var rules = [
 "||youtube.com",
 "||youtu.be",
 //其他常用网址
-"||whoer.net",
+"||whoer.net",  //看IP的
+"||alibabacloud.com", //国际阿里
+"||facebook.com", //脸书
+"||facebook.net", //脸书
+"||fbcdn.net", //脸书
+"||instagram.com", //脸书
+"||twitter.com", //推特
+"||twimg.com", //推特
 // github网址
 "||github.com",
 "||githubusercontent.com",
@@ -75,13 +83,22 @@ var rules = [
 "||typekit.com",
 "||fontawesome.com",
 "||paypalobjects.com",
-//Freenon网址
+//域名注册地址
 "||freenom.com",
 "||mouseflow.com",
 "||jquery.com",
 "||jquery.com",
 "||facebook.net",
 "||bootstrapcdn.com",
+"||namesilo.com", 
+"||namecheap.com", 
+"||reddit.com", 
+"||redditstatic.com", 
+"||cookielaw.org", 
+"||onetrust.com", 
+"||quora.com",
+"||nc-img.com",
+"||impactradius-event.com",
 //你懂得
 "||pornhub.com",
 "||phncdn.com",
@@ -98,7 +115,6 @@ var rules = [
 "||tvb.com",
 //台湾流媒体
 "||hinet.net",
-"||fbcdn.net",
 "||gvt1.com",
 "||digicert.com",
 "||viblast.com",
@@ -112,6 +128,7 @@ var rules = [
 "||amazonaws.com",
 "||brightcove.com"
 ];
+
 
 function createDict()
 {
