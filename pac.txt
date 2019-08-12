@@ -20,6 +20,7 @@ var rules = [
 "||us",
 "||tw",
 // 谷歌系列
+"||google",
 "||google.com",
 "||google.cn",
 "||googleapis.com",
@@ -35,8 +36,6 @@ var rules = [
 "||youtube.com",
 "||youtu.be",
 //其他常用网址
-"||wikipedia.org", //维基百科
-"||wikimedia.org", //维基百科
 "||whoer.net",  //看IP的
 "||alibabacloud.com", //国际阿里
 "||facebook.com", //脸书
@@ -52,22 +51,11 @@ var rules = [
 "||githubassets.com",
 // Docker Hub网址
 "||docker.com",
-"||segment.io",
-"||optimizely.com",
-"||bizible.com",
-"||cloudfront.net",
-"||marketo.net",
-"||pxi.pub",
-"||nr-data.net",
-"||newrelic.com",
-"||recurly.com",
 //xda网址
 "||xda-developers.com",
 "||xda-cdn.com",
 "||convertexperiments.com",
 "||convertexperiments.com",
-"||viglink.com",
-"||cloudflare.com",
 "||xda-developers.com",
 "||middycdn-a.akamaihd.net",
 "||scorecardresearch.com",
@@ -90,17 +78,9 @@ var rules = [
 "||mouseflow.com",
 "||jquery.com",
 "||jquery.com",
-"||facebook.net",
 "||bootstrapcdn.com",
 "||namesilo.com", 
 "||namecheap.com", 
-"||reddit.com", 
-"||redditstatic.com", 
-"||cookielaw.org", 
-"||onetrust.com", 
-"||quora.com",
-"||nc-img.com",
-"||impactradius-event.com",
 //你懂得
 "||pornhub.com",
 "||phncdn.com",
@@ -128,7 +108,26 @@ var rules = [
 "||abema.tv",
 "||akamaized.net",
 "||amazonaws.com",
-"||brightcove.com"
+"||brightcove.com",
+//CDN之类的隐式域名
+"||nr-data.net",
+"||segment.io",
+"||optimizely.com",
+"||bizible.com",
+"||cloudfront.net",
+"||marketo.net",
+"||pxi.pub",
+"||newrelic.com",
+"||recurly.com",
+"||nc-img.com",
+"||quora.com",
+"||impactradius-event.com",
+"||reddit.com", 
+"||redditstatic.com", 
+"||cookielaw.org", 
+"||onetrust.com", 
+"||viglink.com",
+"||cloudflare.com",
 ];
 
 
