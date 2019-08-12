@@ -37,6 +37,8 @@ var rules = [
 "||youtu.be",
 //其他常用网址
 "||whoer.net",  //看IP的
+"||t.me",  //电报
+"||telegram.org", //电报
 "||alibabacloud.com", //国际阿里
 "||facebook.com", //脸书
 "||facebook.net", //脸书
