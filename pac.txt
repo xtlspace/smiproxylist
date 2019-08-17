@@ -6,8 +6,7 @@ var rules = [
 // 灵魂出窍网址
 "||soulout.club",
 "||outsoul.club",
-"||soulout.xyz",
-"||outsoul.xyz",
+//"||outsoul.xyz",
 "||jsdelivr.net",
 "||loli.net",
 // 常用国外域名代理
