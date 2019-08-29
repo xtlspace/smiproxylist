@@ -5,6 +5,10 @@
 https://raw.githubusercontent.com/souloutclub/ssr-v2ray-pac/master/pac.txt <br>
 ### 可以根据格式添加自己常访问的网站
 ### 若有遗漏可以提交issue，注意是Win端常访问的
+
+
+### 安卓建议使用分应用代理配合此ACL文件：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/onlybanAD.acl
+#### 原Github地址：https://github.com/ACL4SSR/ACL4SSR
 ### 希望可以多多支持本站
 ### https://soulout.club
 
