@@ -39,6 +39,7 @@ var rules = [
 "||t.me",  //电报
 "||telegram.org", //电报
 "||alibabacloud.com", //国际阿里
+"||apkpure.com",  //Apkpure
 "||facebook.com", //脸书
 "||facebook.net", //脸书
 "||fbcdn.net", //脸书
