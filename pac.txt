@@ -38,6 +38,7 @@ var rules = [
 "||whoer.net",  //看IP的
 "||t.me",  //电报
 "||telegram.org", //电报
+"||wikipedia.org", //维基百科
 "||alibabacloud.com", //国际阿里
 "||apkpure.com",  //Apkpure
 "||facebook.com", //脸书
