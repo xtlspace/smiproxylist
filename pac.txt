@@ -12,12 +12,12 @@ var rules = [
 // 常用国外域名代理
 "||hk",
 "||tw",
+"||eu",
 "||sg",
 "||jp",
 "||kr",
 "||uk",
 "||us",
-"||tw",
 // 谷歌系列
 "||google",
 "||google.com",
