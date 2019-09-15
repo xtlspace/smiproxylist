@@ -47,6 +47,7 @@ var rules = [
 "||instagram.com", //脸书
 "||twitter.com", //推特
 "||twimg.com", //推特
+"||ssr.tools", //SSR中文网
 // github网址
 "||github.com",
 "||githubusercontent.com",
