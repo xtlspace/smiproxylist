@@ -54,7 +54,7 @@ var rules = [
 "||kuaichedao.co", //快车道VPS商家
 "||microsoftonline.com", //Azure巨硬云
 "||msauth.net",   //Azure
-"||oraclecloud.com"  //甲骨文
+"||oraclecloud.com",  //甲骨文
 "||hurricanedigital.net",
 "||nathosts.com",
 "||mansora.net",
@@ -146,12 +146,12 @@ var rules = [
 "||nc-img.com",
 "||quora.com",
 "||impactradius-event.com",
-"||reddit.com", 
-"||redditstatic.com", 
+"||reddit.com",
+"||redditstatic.com",
 "||cookielaw.org", 
 "||onetrust.com", 
 "||viglink.com",
-"||cloudflare.com",
+"||cloudflare.com"
 ];
 
 
