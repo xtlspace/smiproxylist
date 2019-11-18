@@ -37,6 +37,8 @@ var rules = [
 "||youtube.com",
 "||youtu.be",
 //其他常用网址
+"||ssr.tools",  //SSR中文网
+"||duyaoss.com", //毒药评测
 "||amazon.com", //亚马逊
 "||cloudfront.net", //cloudfrontCDN
 "||whoer.net",  //看IP的
