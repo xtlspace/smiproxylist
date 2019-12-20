@@ -37,6 +37,7 @@ var rules = [
 "||youtube.com",
 "||youtu.be",
 //其他常用网址
+"||moeclub.org",  //萌咖
 "||ssr.tools",  //SSR中文网
 "||duyaoss.com", //毒药评测
 "||wikipedia.org", //Wiki
