@@ -128,6 +128,10 @@ var rules = [
 "||line.me",
 "||line-apps.com",
 //日本流媒体
+"||abema.io",
+"||tver.jp",
+"||amazonaws.com",
+"||ameba.jp",
 "||abema.tv",
 "||akamaized.net",
 "||amazonaws.com",
