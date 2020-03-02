@@ -20,8 +20,6 @@ var rules = [
 "||ru",
 "||vn",
 "||ca",
-// 谷歌系列
-"||google",
 "||google.com",
 "||google.cn",
 "||googleapis.com",
@@ -131,6 +129,8 @@ var rules = [
 "||akamaized.net",
 "||amazonaws.com",
 "||brightcove.com",
+"||hulu.jp",
+"||happyon.jp",
 //CDN之类的隐式域名
 "||cdnpure.com",
 "||jsdelivr.net",
