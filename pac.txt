@@ -37,6 +37,7 @@ var rules = [
 //其他常用网址
 "||apkpure.com", //APKPure
 "||ssr.tools",  //SSR中文网
+"||doubibackup.com", //逗比备份站
 "||duyaoss.com", //毒药评测
 "||wikipedia.org", //Wiki
 "||wikimedia.org", //Wiki
