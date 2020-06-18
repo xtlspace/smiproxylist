@@ -116,6 +116,7 @@ var rules = [
 //香港流媒体
 "||mytvsuper.com",
 "||tvb.com",
+"||viu.com",
 //台湾流媒体
 "||hinet.net",
 "||gvt1.com",
@@ -123,8 +124,8 @@ var rules = [
 "||viblast.com",
 "||bilibili.com",
 "||hdslb.com",
-"||line.me",
-"||line-apps.com",
+"||linetv.tw",
+"||4gtv.tv",
 //日本流媒体
 "||abema.tv",
 "||akamaized.net",
@@ -132,6 +133,14 @@ var rules = [
 "||brightcove.com",
 "||hulu.jp",
 "||happyon.jp",
+"||pixiv.net",
+"||qualaroo.com",
+"||pximg.net",
+"||dmm.com",
+//美国迪士尼
+"||disneynow.com",
+"||disneyplus.com",
+"||go.com",
 //CDN之类的隐式域名
 "||cdnpure.com",
 "||jsdelivr.net",
